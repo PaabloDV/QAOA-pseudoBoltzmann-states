@@ -21,7 +21,7 @@ This repository contains the code to reproduce all the results shown in the manu
     - [Pseudo_Boltzmannstates_Fig2.ipynb](./Pseudo_Boltzmannstates_Fig2.ipynb) : reproduce the results in Figure 2 (data from "exp_PseudoBoltzmannStates_average.py").
     - [Pseudo_Boltzmannstates_Fig3.ipynb](./Pseudo_Boltzmannstates_Fig3.ipynb) : reproduce the results in Figure 3 (data from "exp_PseudoBoltzmannStates_observables.py", "exp_PseudoBoltzmannStates_VSgamma.py", and "exp_PseudoBoltzmannStates_VStheta.py").
     - [Pseudo_Boltzmannstates_Fig4_covEH.ipynb](./Pseudo_Boltzmannstates_Fig4_covEH.ipynb) : reproduce the results in Figure 4 (data from "exp_covariancesEH.py").
-    - [Pseudo_Boltzmannstates_Fits.ipynb](./Pseudo_Boltzmannstates_Fits.ipynb) : reproduce the results shown in the section II.B of the Supplementary material (data from "exp_PseudoBoltzmannStates_observables.py").
+    - [Pseudo_Boltzmannstates_Trends.ipynb](./Pseudo_Boltzmannstates_Trends.ipynb) : reproduce the results shown in the section II.B of the Supplementary material (data from "exp_PseudoBoltzmannStates_observables.py").
     - [Pseudo_Boltzmannstates_GaussianMixture.ipynb](./Pseudo_Boltzmannstates_GaussianMixture.ipynb) : in this notebook we numerically compute the probability distribution p(H, E, x) over eigenenergies E and Hamming distances H from eigenstates to the reference x. We fit this distribution to a sum of one or two gaussians.
     - [QAOAvsMCMC.ipynb](./QAOAvsMCMC.ipynb) : reproduce the results in Figure 5 and the section II.C of the Supplementary material (data from "exp_mcmc_comparison.py").
 
